@@ -1,0 +1,11 @@
+C:\Users\alisa\Downloads\rally2\Rally\bin\Debug\Rally.exe.config
+C:\Users\alisa\Downloads\rally2\Rally\bin\Debug\Rally.exe
+C:\Users\alisa\Downloads\rally2\Rally\bin\Debug\Rally.pdb
+C:\Users\alisa\Downloads\rally2\Rally\obj\Debug\Rally.csproj.AssemblyReference.cache
+C:\Users\alisa\Downloads\rally2\Rally\obj\Debug\Rally.csproj.SuggestedBindingRedirects.cache
+C:\Users\alisa\Downloads\rally2\Rally\obj\Debug\Rally.MainForm.resources
+C:\Users\alisa\Downloads\rally2\Rally\obj\Debug\Rally.Properties.Resources.resources
+C:\Users\alisa\Downloads\rally2\Rally\obj\Debug\Rally.csproj.GenerateResource.cache
+C:\Users\alisa\Downloads\rally2\Rally\obj\Debug\Rally.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Downloads\rally2\Rally\obj\Debug\Rally.exe
+C:\Users\alisa\Downloads\rally2\Rally\obj\Debug\Rally.pdb
